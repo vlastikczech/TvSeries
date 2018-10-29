@@ -2,6 +2,11 @@
 
 Built by Vlastik Walker
 
+## Demo
+```
+https://frozen-sands-58026.herokuapp.com
+```
+
 ## About
 
 * Allows user to search for their favorite TV Series
